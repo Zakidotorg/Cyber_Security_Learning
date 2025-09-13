@@ -1,8 +1,19 @@
-# Cyber_Security_Learning
-In this Repository I learn Cyber Security from Basic to Advance.
-##> Basics of Cyber Security
-##> Theory of Cyber Security
-##> Practicals of Cybr Security
-##> Hands on Practice
-##> Try Hack Me Practice
-##> first Job Land..
+# Cyber Learning — Zaki
+
+## Goal
+0 → Entry-level cyber security skills: Linux, Networking, Web Security, Pentesting (3 months focus).
+
+## Weekly log
+- Week 1: Setup, Linux fundamentals, Network fundamentals, basic nmap, PortSwigger intro.
+- (Add day-by-day notes here as you finish rooms)
+
+## Projects
+- Phishing Email Detector (Python) — CLI first.
+- Web vuln writeup — target: OWASP lab.
+- Scan + mini remediation report (nmap output + findings).
+
+## Tools used
+Kali Linux (VM), VirtualBox, nmap, burp suite / PortSwigger labs, git, Wireshark, Cisco, etc etc.
+
+## Contact
+Email: shaikhzakiii34@gmail.com
